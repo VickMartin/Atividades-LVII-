@@ -36,11 +36,11 @@
         Nome:<br>
         <input class=enviar type="text" name="nome" id=""><br>
         1ºNota:<br>
-        <input class=enviar type="nota1" name="nota1" required><br>
+        <input class=enviar type="text" name="nota1" required><br>
         2ºNota:<br>
-        <input class=enviar type="nota2" name="nota2" required><br>
+        <input class=enviar type="text" name="nota2" required><br>
         3ºNota:<br>
-        <input class=enviar type="nota3" name="nota3" id=""><br>
+        <input class=enviar type="text" name="nota3" id=""><br>
         
        
 
